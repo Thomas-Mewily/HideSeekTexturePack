@@ -1,0 +1,63 @@
+{
+    "audio1": {
+      "sounds": [
+        "custom:1"]
+      },
+      "audio2": {
+        "sounds": [
+          "custom:2"]
+      },
+      "audio3": {
+        "sounds": [
+          "custom:3"]
+      },
+      "audio4": {
+        "sounds": [
+          "custom:4"]
+      },
+      "audio5": {
+        "sounds": [
+          "custom:5"]
+      },
+      "audio6": {
+        "sounds": [
+          "custom:6"]
+      },
+      "audio7": {
+        "sounds": [
+          "custom:7"]
+      },
+      "audio8": {
+        "sounds": [
+          "custom:8"]
+      },
+      "audio9": {
+        "sounds": [
+          "custom:9"]
+      },
+      "audio10": {
+        "sounds": [
+          "custom:10"]
+      },
+      "audio11": {
+        "sounds": [
+          "custom:11"]
+      },
+      "audio12": {
+        "sounds": [
+          "custom:12"]
+      },
+      "audio13": {
+        "sounds": [
+          "custom:13"]
+      },
+      "audio14": {
+        "sounds": [
+          "custom:14"]
+      },
+      "audio15": {
+        "sounds": [
+          "custom:15"]
+      }
+  }
+  

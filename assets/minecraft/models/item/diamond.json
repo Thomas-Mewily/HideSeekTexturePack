@@ -1,0 +1,6513 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/diamond"
+  },
+  "overrides": [
+	
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "minecraft:item/custom/acacia_door_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:item/custom/acacia_door_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:item/custom/acacia_leaves_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "minecraft:item/custom/acacia_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "minecraft:item/custom/acacia_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "minecraft:item/custom/acacia_planks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "minecraft:item/custom/acacia_sapling_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "minecraft:item/custom/acacia_trapdoor_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "minecraft:item/custom/activator_rail_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "minecraft:item/custom/activator_rail_on_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "minecraft:item/custom/allium_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "minecraft:item/custom/amethyst_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "minecraft:item/custom/amethyst_cluster_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "minecraft:item/custom/ancient_debris_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "minecraft:item/custom/ancient_debris_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "minecraft:item/custom/andesite_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "minecraft:item/custom/anvil_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "minecraft:item/custom/anvil_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "minecraft:item/custom/attached_melon_stem_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "minecraft:item/custom/attached_pumpkin_stem_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "minecraft:item/custom/azalea_leaves_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "minecraft:item/custom/azalea_plant_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "minecraft:item/custom/azalea_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "minecraft:item/custom/azalea_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "minecraft:item/custom/azure_bluet_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "minecraft:item/custom/bamboo_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "minecraft:item/custom/bamboo_block_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "minecraft:item/custom/bamboo_door_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "minecraft:item/custom/bamboo_door_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "minecraft:item/custom/bamboo_fence_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "minecraft:item/custom/bamboo_fence_gate_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "minecraft:item/custom/bamboo_fence_gate_particle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "minecraft:item/custom/bamboo_fence_particle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "minecraft:item/custom/bamboo_large_leaves_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "minecraft:item/custom/bamboo_mosaic_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "minecraft:item/custom/bamboo_planks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "minecraft:item/custom/bamboo_singleleaf_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "minecraft:item/custom/bamboo_small_leaves_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 39
+			},
+			"model": "minecraft:item/custom/bamboo_stage0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 40
+			},
+			"model": "minecraft:item/custom/bamboo_stalk_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 41
+			},
+			"model": "minecraft:item/custom/bamboo_trapdoor_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "minecraft:item/custom/barrel_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 43
+			},
+			"model": "minecraft:item/custom/barrel_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 44
+			},
+			"model": "minecraft:item/custom/barrel_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 45
+			},
+			"model": "minecraft:item/custom/barrel_top_open_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 46
+			},
+			"model": "minecraft:item/custom/basalt_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 47
+			},
+			"model": "minecraft:item/custom/basalt_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 48
+			},
+			"model": "minecraft:item/custom/beacon_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 49
+			},
+			"model": "minecraft:item/custom/bedrock_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 50
+			},
+			"model": "minecraft:item/custom/beehive_end_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 51
+			},
+			"model": "minecraft:item/custom/beehive_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 52
+			},
+			"model": "minecraft:item/custom/beehive_front_honey_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 53
+			},
+			"model": "minecraft:item/custom/beehive_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 54
+			},
+			"model": "minecraft:item/custom/beetroots_stage0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 55
+			},
+			"model": "minecraft:item/custom/beetroots_stage1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 56
+			},
+			"model": "minecraft:item/custom/beetroots_stage2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 57
+			},
+			"model": "minecraft:item/custom/beetroots_stage3_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 58
+			},
+			"model": "minecraft:item/custom/bee_nest_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 59
+			},
+			"model": "minecraft:item/custom/bee_nest_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 60
+			},
+			"model": "minecraft:item/custom/bee_nest_front_honey_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 61
+			},
+			"model": "minecraft:item/custom/bee_nest_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 62
+			},
+			"model": "minecraft:item/custom/bee_nest_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 63
+			},
+			"model": "minecraft:item/custom/bell_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 64
+			},
+			"model": "minecraft:item/custom/bell_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 65
+			},
+			"model": "minecraft:item/custom/bell_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 66
+			},
+			"model": "minecraft:item/custom/big_dripleaf_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 67
+			},
+			"model": "minecraft:item/custom/big_dripleaf_stem_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 68
+			},
+			"model": "minecraft:item/custom/big_dripleaf_tip_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 69
+			},
+			"model": "minecraft:item/custom/big_dripleaf_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 70
+			},
+			"model": "minecraft:item/custom/birch_door_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 71
+			},
+			"model": "minecraft:item/custom/birch_door_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 72
+			},
+			"model": "minecraft:item/custom/birch_leaves_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 73
+			},
+			"model": "minecraft:item/custom/birch_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 74
+			},
+			"model": "minecraft:item/custom/birch_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 75
+			},
+			"model": "minecraft:item/custom/birch_planks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 76
+			},
+			"model": "minecraft:item/custom/birch_sapling_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 77
+			},
+			"model": "minecraft:item/custom/birch_trapdoor_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 78
+			},
+			"model": "minecraft:item/custom/blackstone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 79
+			},
+			"model": "minecraft:item/custom/blackstone_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 80
+			},
+			"model": "minecraft:item/custom/black_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 81
+			},
+			"model": "minecraft:item/custom/black_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 82
+			},
+			"model": "minecraft:item/custom/black_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 83
+			},
+			"model": "minecraft:item/custom/black_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 84
+			},
+			"model": "minecraft:item/custom/black_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 85
+			},
+			"model": "minecraft:item/custom/black_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 86
+			},
+			"model": "minecraft:item/custom/black_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 87
+			},
+			"model": "minecraft:item/custom/black_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 88
+			},
+			"model": "minecraft:item/custom/black_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 89
+			},
+			"model": "minecraft:item/custom/black_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 90
+			},
+			"model": "minecraft:item/custom/blast_furnace_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 91
+			},
+			"model": "minecraft:item/custom/blast_furnace_front_on_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 92
+			},
+			"model": "minecraft:item/custom/blast_furnace_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 93
+			},
+			"model": "minecraft:item/custom/blast_furnace_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 94
+			},
+			"model": "minecraft:item/custom/blue_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 95
+			},
+			"model": "minecraft:item/custom/blue_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 96
+			},
+			"model": "minecraft:item/custom/blue_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 97
+			},
+			"model": "minecraft:item/custom/blue_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 98
+			},
+			"model": "minecraft:item/custom/blue_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 99
+			},
+			"model": "minecraft:item/custom/blue_ice_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 100
+			},
+			"model": "minecraft:item/custom/blue_orchid_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 101
+			},
+			"model": "minecraft:item/custom/blue_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 102
+			},
+			"model": "minecraft:item/custom/blue_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 103
+			},
+			"model": "minecraft:item/custom/blue_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 104
+			},
+			"model": "minecraft:item/custom/blue_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 105
+			},
+			"model": "minecraft:item/custom/blue_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 106
+			},
+			"model": "minecraft:item/custom/bone_block_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 107
+			},
+			"model": "minecraft:item/custom/bone_block_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 108
+			},
+			"model": "minecraft:item/custom/bookshelf_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 109
+			},
+			"model": "minecraft:item/custom/brain_coral_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 110
+			},
+			"model": "minecraft:item/custom/brain_coral_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 111
+			},
+			"model": "minecraft:item/custom/brain_coral_fan_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 112
+			},
+			"model": "minecraft:item/custom/brewing_stand_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 113
+			},
+			"model": "minecraft:item/custom/brewing_stand_base_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 114
+			},
+			"model": "minecraft:item/custom/bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 115
+			},
+			"model": "minecraft:item/custom/brown_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 116
+			},
+			"model": "minecraft:item/custom/brown_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 117
+			},
+			"model": "minecraft:item/custom/brown_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 118
+			},
+			"model": "minecraft:item/custom/brown_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 119
+			},
+			"model": "minecraft:item/custom/brown_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 120
+			},
+			"model": "minecraft:item/custom/brown_mushroom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 121
+			},
+			"model": "minecraft:item/custom/brown_mushroom_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 122
+			},
+			"model": "minecraft:item/custom/brown_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 123
+			},
+			"model": "minecraft:item/custom/brown_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 124
+			},
+			"model": "minecraft:item/custom/brown_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 125
+			},
+			"model": "minecraft:item/custom/brown_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 126
+			},
+			"model": "minecraft:item/custom/brown_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 127
+			},
+			"model": "minecraft:item/custom/bubble_coral_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 128
+			},
+			"model": "minecraft:item/custom/bubble_coral_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 129
+			},
+			"model": "minecraft:item/custom/bubble_coral_fan_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 130
+			},
+			"model": "minecraft:item/custom/budding_amethyst_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 131
+			},
+			"model": "minecraft:item/custom/cactus_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 132
+			},
+			"model": "minecraft:item/custom/cactus_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 133
+			},
+			"model": "minecraft:item/custom/cactus_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 134
+			},
+			"model": "minecraft:item/custom/cake_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 135
+			},
+			"model": "minecraft:item/custom/cake_inner_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 136
+			},
+			"model": "minecraft:item/custom/cake_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 137
+			},
+			"model": "minecraft:item/custom/cake_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 138
+			},
+			"model": "minecraft:item/custom/calcite_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 139
+			},
+			"model": "minecraft:item/custom/calibrated_sculk_sensor_amethyst_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 140
+			},
+			"model": "minecraft:item/custom/calibrated_sculk_sensor_input_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 141
+			},
+			"model": "minecraft:item/custom/calibrated_sculk_sensor_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 142
+			},
+			"model": "minecraft:item/custom/campfire_fire_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 143
+			},
+			"model": "minecraft:item/custom/campfire_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 144
+			},
+			"model": "minecraft:item/custom/campfire_log_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 145
+			},
+			"model": "minecraft:item/custom/candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 146
+			},
+			"model": "minecraft:item/custom/candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 147
+			},
+			"model": "minecraft:item/custom/carrots_stage0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 148
+			},
+			"model": "minecraft:item/custom/carrots_stage1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 149
+			},
+			"model": "minecraft:item/custom/carrots_stage2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 150
+			},
+			"model": "minecraft:item/custom/carrots_stage3_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 151
+			},
+			"model": "minecraft:item/custom/cartography_table_side1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 152
+			},
+			"model": "minecraft:item/custom/cartography_table_side2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 153
+			},
+			"model": "minecraft:item/custom/cartography_table_side3_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 154
+			},
+			"model": "minecraft:item/custom/cartography_table_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 155
+			},
+			"model": "minecraft:item/custom/carved_pumpkin_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 156
+			},
+			"model": "minecraft:item/custom/cauldron_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 157
+			},
+			"model": "minecraft:item/custom/cauldron_inner_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 158
+			},
+			"model": "minecraft:item/custom/cauldron_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 159
+			},
+			"model": "minecraft:item/custom/cauldron_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 160
+			},
+			"model": "minecraft:item/custom/cave_vines_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 161
+			},
+			"model": "minecraft:item/custom/cave_vines_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 162
+			},
+			"model": "minecraft:item/custom/cave_vines_plant_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 163
+			},
+			"model": "minecraft:item/custom/cave_vines_plant_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 164
+			},
+			"model": "minecraft:item/custom/chain_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 165
+			},
+			"model": "minecraft:item/custom/chain_command_block_back_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 166
+			},
+			"model": "minecraft:item/custom/chain_command_block_conditional_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 167
+			},
+			"model": "minecraft:item/custom/chain_command_block_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 168
+			},
+			"model": "minecraft:item/custom/chain_command_block_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 169
+			},
+			"model": "minecraft:item/custom/cherry_door_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 170
+			},
+			"model": "minecraft:item/custom/cherry_door_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 171
+			},
+			"model": "minecraft:item/custom/cherry_leaves_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 172
+			},
+			"model": "minecraft:item/custom/cherry_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 173
+			},
+			"model": "minecraft:item/custom/cherry_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 174
+			},
+			"model": "minecraft:item/custom/cherry_planks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 175
+			},
+			"model": "minecraft:item/custom/cherry_sapling_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 176
+			},
+			"model": "minecraft:item/custom/cherry_trapdoor_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 177
+			},
+			"model": "minecraft:item/custom/chipped_anvil_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 178
+			},
+			"model": "minecraft:item/custom/chiseled_bookshelf_empty_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 179
+			},
+			"model": "minecraft:item/custom/chiseled_bookshelf_occupied_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 180
+			},
+			"model": "minecraft:item/custom/chiseled_bookshelf_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 181
+			},
+			"model": "minecraft:item/custom/chiseled_bookshelf_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 182
+			},
+			"model": "minecraft:item/custom/chiseled_deepslate_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 183
+			},
+			"model": "minecraft:item/custom/chiseled_nether_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 184
+			},
+			"model": "minecraft:item/custom/chiseled_polished_blackstone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 185
+			},
+			"model": "minecraft:item/custom/chiseled_quartz_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 186
+			},
+			"model": "minecraft:item/custom/chiseled_quartz_block_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 187
+			},
+			"model": "minecraft:item/custom/chiseled_red_sandstone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 188
+			},
+			"model": "minecraft:item/custom/chiseled_sandstone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 189
+			},
+			"model": "minecraft:item/custom/chiseled_stone_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 190
+			},
+			"model": "minecraft:item/custom/chorus_flower_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 191
+			},
+			"model": "minecraft:item/custom/chorus_flower_dead_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 192
+			},
+			"model": "minecraft:item/custom/chorus_plant_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 193
+			},
+			"model": "minecraft:item/custom/clay_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 194
+			},
+			"model": "minecraft:item/custom/coal_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 195
+			},
+			"model": "minecraft:item/custom/coal_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 196
+			},
+			"model": "minecraft:item/custom/coarse_dirt_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 197
+			},
+			"model": "minecraft:item/custom/cobbled_deepslate_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 198
+			},
+			"model": "minecraft:item/custom/cobblestone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 199
+			},
+			"model": "minecraft:item/custom/cobweb_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 200
+			},
+			"model": "minecraft:item/custom/cocoa_stage0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 201
+			},
+			"model": "minecraft:item/custom/cocoa_stage1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 202
+			},
+			"model": "minecraft:item/custom/cocoa_stage2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 203
+			},
+			"model": "minecraft:item/custom/command_block_back_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 204
+			},
+			"model": "minecraft:item/custom/command_block_conditional_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 205
+			},
+			"model": "minecraft:item/custom/command_block_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 206
+			},
+			"model": "minecraft:item/custom/command_block_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 207
+			},
+			"model": "minecraft:item/custom/comparator_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 208
+			},
+			"model": "minecraft:item/custom/comparator_on_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 209
+			},
+			"model": "minecraft:item/custom/composter_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 210
+			},
+			"model": "minecraft:item/custom/composter_compost_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 211
+			},
+			"model": "minecraft:item/custom/composter_ready_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 212
+			},
+			"model": "minecraft:item/custom/composter_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 213
+			},
+			"model": "minecraft:item/custom/composter_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 214
+			},
+			"model": "minecraft:item/custom/conduit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 215
+			},
+			"model": "minecraft:item/custom/copper_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 216
+			},
+			"model": "minecraft:item/custom/copper_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 217
+			},
+			"model": "minecraft:item/custom/cornflower_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 218
+			},
+			"model": "minecraft:item/custom/cracked_deepslate_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 219
+			},
+			"model": "minecraft:item/custom/cracked_deepslate_tiles_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 220
+			},
+			"model": "minecraft:item/custom/cracked_nether_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 221
+			},
+			"model": "minecraft:item/custom/cracked_polished_blackstone_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 222
+			},
+			"model": "minecraft:item/custom/cracked_stone_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 223
+			},
+			"model": "minecraft:item/custom/crafting_table_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 224
+			},
+			"model": "minecraft:item/custom/crafting_table_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 225
+			},
+			"model": "minecraft:item/custom/crafting_table_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 226
+			},
+			"model": "minecraft:item/custom/crimson_door_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 227
+			},
+			"model": "minecraft:item/custom/crimson_door_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 228
+			},
+			"model": "minecraft:item/custom/crimson_fungus_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 229
+			},
+			"model": "minecraft:item/custom/crimson_nylium_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 230
+			},
+			"model": "minecraft:item/custom/crimson_nylium_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 231
+			},
+			"model": "minecraft:item/custom/crimson_planks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 232
+			},
+			"model": "minecraft:item/custom/crimson_roots_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 233
+			},
+			"model": "minecraft:item/custom/crimson_roots_pot_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 234
+			},
+			"model": "minecraft:item/custom/crimson_stem_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 235
+			},
+			"model": "minecraft:item/custom/crimson_stem_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 236
+			},
+			"model": "minecraft:item/custom/crimson_trapdoor_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 237
+			},
+			"model": "minecraft:item/custom/crying_obsidian_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 238
+			},
+			"model": "minecraft:item/custom/cut_copper_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 239
+			},
+			"model": "minecraft:item/custom/cut_red_sandstone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 240
+			},
+			"model": "minecraft:item/custom/cut_sandstone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 241
+			},
+			"model": "minecraft:item/custom/cyan_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 242
+			},
+			"model": "minecraft:item/custom/cyan_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 243
+			},
+			"model": "minecraft:item/custom/cyan_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 244
+			},
+			"model": "minecraft:item/custom/cyan_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 245
+			},
+			"model": "minecraft:item/custom/cyan_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 246
+			},
+			"model": "minecraft:item/custom/cyan_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 247
+			},
+			"model": "minecraft:item/custom/cyan_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 248
+			},
+			"model": "minecraft:item/custom/cyan_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 249
+			},
+			"model": "minecraft:item/custom/cyan_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 250
+			},
+			"model": "minecraft:item/custom/cyan_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 251
+			},
+			"model": "minecraft:item/custom/damaged_anvil_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 252
+			},
+			"model": "minecraft:item/custom/dandelion_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 253
+			},
+			"model": "minecraft:item/custom/dark_oak_door_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 254
+			},
+			"model": "minecraft:item/custom/dark_oak_door_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 255
+			},
+			"model": "minecraft:item/custom/dark_oak_leaves_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 256
+			},
+			"model": "minecraft:item/custom/dark_oak_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 257
+			},
+			"model": "minecraft:item/custom/dark_oak_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 258
+			},
+			"model": "minecraft:item/custom/dark_oak_planks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 259
+			},
+			"model": "minecraft:item/custom/dark_oak_sapling_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 260
+			},
+			"model": "minecraft:item/custom/dark_oak_trapdoor_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 261
+			},
+			"model": "minecraft:item/custom/dark_prismarine_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 262
+			},
+			"model": "minecraft:item/custom/daylight_detector_inverted_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 263
+			},
+			"model": "minecraft:item/custom/daylight_detector_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 264
+			},
+			"model": "minecraft:item/custom/daylight_detector_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 265
+			},
+			"model": "minecraft:item/custom/dead_brain_coral_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 266
+			},
+			"model": "minecraft:item/custom/dead_brain_coral_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 267
+			},
+			"model": "minecraft:item/custom/dead_brain_coral_fan_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 268
+			},
+			"model": "minecraft:item/custom/dead_bubble_coral_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 269
+			},
+			"model": "minecraft:item/custom/dead_bubble_coral_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 270
+			},
+			"model": "minecraft:item/custom/dead_bubble_coral_fan_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 271
+			},
+			"model": "minecraft:item/custom/dead_bush_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 272
+			},
+			"model": "minecraft:item/custom/dead_fire_coral_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 273
+			},
+			"model": "minecraft:item/custom/dead_fire_coral_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 274
+			},
+			"model": "minecraft:item/custom/dead_fire_coral_fan_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 275
+			},
+			"model": "minecraft:item/custom/dead_horn_coral_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 276
+			},
+			"model": "minecraft:item/custom/dead_horn_coral_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 277
+			},
+			"model": "minecraft:item/custom/dead_horn_coral_fan_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 278
+			},
+			"model": "minecraft:item/custom/dead_tube_coral_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 279
+			},
+			"model": "minecraft:item/custom/dead_tube_coral_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 280
+			},
+			"model": "minecraft:item/custom/dead_tube_coral_fan_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 281
+			},
+			"model": "minecraft:item/custom/debug_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 282
+			},
+			"model": "minecraft:item/custom/debug2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 283
+			},
+			"model": "minecraft:item/custom/deepslate_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 284
+			},
+			"model": "minecraft:item/custom/deepslate_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 285
+			},
+			"model": "minecraft:item/custom/deepslate_coal_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 286
+			},
+			"model": "minecraft:item/custom/deepslate_copper_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 287
+			},
+			"model": "minecraft:item/custom/deepslate_diamond_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 288
+			},
+			"model": "minecraft:item/custom/deepslate_emerald_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 289
+			},
+			"model": "minecraft:item/custom/deepslate_gold_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 290
+			},
+			"model": "minecraft:item/custom/deepslate_iron_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 291
+			},
+			"model": "minecraft:item/custom/deepslate_lapis_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 292
+			},
+			"model": "minecraft:item/custom/deepslate_redstone_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 293
+			},
+			"model": "minecraft:item/custom/deepslate_tiles_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 294
+			},
+			"model": "minecraft:item/custom/deepslate_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 295
+			},
+			"model": "minecraft:item/custom/destroy_stage_0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 296
+			},
+			"model": "minecraft:item/custom/destroy_stage_1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 297
+			},
+			"model": "minecraft:item/custom/destroy_stage_2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 298
+			},
+			"model": "minecraft:item/custom/destroy_stage_3_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 299
+			},
+			"model": "minecraft:item/custom/destroy_stage_4_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 300
+			},
+			"model": "minecraft:item/custom/destroy_stage_5_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 301
+			},
+			"model": "minecraft:item/custom/destroy_stage_6_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 302
+			},
+			"model": "minecraft:item/custom/destroy_stage_7_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 303
+			},
+			"model": "minecraft:item/custom/destroy_stage_8_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 304
+			},
+			"model": "minecraft:item/custom/destroy_stage_9_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 305
+			},
+			"model": "minecraft:item/custom/detector_rail_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 306
+			},
+			"model": "minecraft:item/custom/detector_rail_on_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 307
+			},
+			"model": "minecraft:item/custom/diamond_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 308
+			},
+			"model": "minecraft:item/custom/diamond_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 309
+			},
+			"model": "minecraft:item/custom/diorite_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 310
+			},
+			"model": "minecraft:item/custom/dirt_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 311
+			},
+			"model": "minecraft:item/custom/dirt_path_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 312
+			},
+			"model": "minecraft:item/custom/dirt_path_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 313
+			},
+			"model": "minecraft:item/custom/dispenser_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 314
+			},
+			"model": "minecraft:item/custom/dispenser_front_vertical_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 315
+			},
+			"model": "minecraft:item/custom/dragon_egg_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 316
+			},
+			"model": "minecraft:item/custom/dried_kelp_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 317
+			},
+			"model": "minecraft:item/custom/dried_kelp_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 318
+			},
+			"model": "minecraft:item/custom/dried_kelp_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 319
+			},
+			"model": "minecraft:item/custom/dripstone_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 320
+			},
+			"model": "minecraft:item/custom/dropper_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 321
+			},
+			"model": "minecraft:item/custom/dropper_front_vertical_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 322
+			},
+			"model": "minecraft:item/custom/emerald_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 323
+			},
+			"model": "minecraft:item/custom/emerald_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 324
+			},
+			"model": "minecraft:item/custom/enchanting_table_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 325
+			},
+			"model": "minecraft:item/custom/enchanting_table_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 326
+			},
+			"model": "minecraft:item/custom/enchanting_table_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 327
+			},
+			"model": "minecraft:item/custom/end_portal_frame_eye_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 328
+			},
+			"model": "minecraft:item/custom/end_portal_frame_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 329
+			},
+			"model": "minecraft:item/custom/end_portal_frame_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 330
+			},
+			"model": "minecraft:item/custom/end_rod_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 331
+			},
+			"model": "minecraft:item/custom/end_stone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 332
+			},
+			"model": "minecraft:item/custom/end_stone_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 333
+			},
+			"model": "minecraft:item/custom/exposed_copper_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 334
+			},
+			"model": "minecraft:item/custom/exposed_cut_copper_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 335
+			},
+			"model": "minecraft:item/custom/farmland_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 336
+			},
+			"model": "minecraft:item/custom/farmland_moist_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 337
+			},
+			"model": "minecraft:item/custom/fern_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 338
+			},
+			"model": "minecraft:item/custom/fire_0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 339
+			},
+			"model": "minecraft:item/custom/fire_1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 340
+			},
+			"model": "minecraft:item/custom/fire_coral_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 341
+			},
+			"model": "minecraft:item/custom/fire_coral_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 342
+			},
+			"model": "minecraft:item/custom/fire_coral_fan_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 343
+			},
+			"model": "minecraft:item/custom/fletching_table_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 344
+			},
+			"model": "minecraft:item/custom/fletching_table_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 345
+			},
+			"model": "minecraft:item/custom/fletching_table_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 346
+			},
+			"model": "minecraft:item/custom/flowering_azalea_leaves_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 347
+			},
+			"model": "minecraft:item/custom/flowering_azalea_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 348
+			},
+			"model": "minecraft:item/custom/flowering_azalea_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 349
+			},
+			"model": "minecraft:item/custom/flower_pot_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 350
+			},
+			"model": "minecraft:item/custom/frogspawn_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 351
+			},
+			"model": "minecraft:item/custom/frosted_ice_0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 352
+			},
+			"model": "minecraft:item/custom/frosted_ice_1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 353
+			},
+			"model": "minecraft:item/custom/frosted_ice_2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 354
+			},
+			"model": "minecraft:item/custom/frosted_ice_3_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 355
+			},
+			"model": "minecraft:item/custom/furnace_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 356
+			},
+			"model": "minecraft:item/custom/furnace_front_on_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 357
+			},
+			"model": "minecraft:item/custom/furnace_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 358
+			},
+			"model": "minecraft:item/custom/furnace_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 359
+			},
+			"model": "minecraft:item/custom/gilded_blackstone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 360
+			},
+			"model": "minecraft:item/custom/glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 361
+			},
+			"model": "minecraft:item/custom/glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 362
+			},
+			"model": "minecraft:item/custom/glowstone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 363
+			},
+			"model": "minecraft:item/custom/glow_item_frame_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 364
+			},
+			"model": "minecraft:item/custom/glow_lichen_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 365
+			},
+			"model": "minecraft:item/custom/gold_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 366
+			},
+			"model": "minecraft:item/custom/gold_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 367
+			},
+			"model": "minecraft:item/custom/granite_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 368
+			},
+			"model": "minecraft:item/custom/grass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 369
+			},
+			"model": "minecraft:item/custom/grass_block_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 370
+			},
+			"model": "minecraft:item/custom/grass_block_side_overlay_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 371
+			},
+			"model": "minecraft:item/custom/grass_block_snow_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 372
+			},
+			"model": "minecraft:item/custom/grass_block_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 373
+			},
+			"model": "minecraft:item/custom/gravel_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 374
+			},
+			"model": "minecraft:item/custom/gray_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 375
+			},
+			"model": "minecraft:item/custom/gray_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 376
+			},
+			"model": "minecraft:item/custom/gray_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 377
+			},
+			"model": "minecraft:item/custom/gray_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 378
+			},
+			"model": "minecraft:item/custom/gray_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 379
+			},
+			"model": "minecraft:item/custom/gray_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 380
+			},
+			"model": "minecraft:item/custom/gray_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 381
+			},
+			"model": "minecraft:item/custom/gray_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 382
+			},
+			"model": "minecraft:item/custom/gray_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 383
+			},
+			"model": "minecraft:item/custom/gray_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 384
+			},
+			"model": "minecraft:item/custom/green_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 385
+			},
+			"model": "minecraft:item/custom/green_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 386
+			},
+			"model": "minecraft:item/custom/green_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 387
+			},
+			"model": "minecraft:item/custom/green_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 388
+			},
+			"model": "minecraft:item/custom/green_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 389
+			},
+			"model": "minecraft:item/custom/green_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 390
+			},
+			"model": "minecraft:item/custom/green_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 391
+			},
+			"model": "minecraft:item/custom/green_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 392
+			},
+			"model": "minecraft:item/custom/green_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 393
+			},
+			"model": "minecraft:item/custom/green_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 394
+			},
+			"model": "minecraft:item/custom/grindstone_pivot_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 395
+			},
+			"model": "minecraft:item/custom/grindstone_round_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 396
+			},
+			"model": "minecraft:item/custom/grindstone_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 397
+			},
+			"model": "minecraft:item/custom/hanging_roots_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 398
+			},
+			"model": "minecraft:item/custom/hay_block_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 399
+			},
+			"model": "minecraft:item/custom/hay_block_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 400
+			},
+			"model": "minecraft:item/custom/honeycomb_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 401
+			},
+			"model": "minecraft:item/custom/honey_block_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 402
+			},
+			"model": "minecraft:item/custom/honey_block_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 403
+			},
+			"model": "minecraft:item/custom/honey_block_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 404
+			},
+			"model": "minecraft:item/custom/hopper_inside_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 405
+			},
+			"model": "minecraft:item/custom/hopper_outside_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 406
+			},
+			"model": "minecraft:item/custom/hopper_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 407
+			},
+			"model": "minecraft:item/custom/horn_coral_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 408
+			},
+			"model": "minecraft:item/custom/horn_coral_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 409
+			},
+			"model": "minecraft:item/custom/horn_coral_fan_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 410
+			},
+			"model": "minecraft:item/custom/ice_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 411
+			},
+			"model": "minecraft:item/custom/iron_bars_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 412
+			},
+			"model": "minecraft:item/custom/iron_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 413
+			},
+			"model": "minecraft:item/custom/iron_door_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 414
+			},
+			"model": "minecraft:item/custom/iron_door_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 415
+			},
+			"model": "minecraft:item/custom/iron_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 416
+			},
+			"model": "minecraft:item/custom/iron_trapdoor_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 417
+			},
+			"model": "minecraft:item/custom/item_frame_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 418
+			},
+			"model": "minecraft:item/custom/jack_o_lantern_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 419
+			},
+			"model": "minecraft:item/custom/jigsaw_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 420
+			},
+			"model": "minecraft:item/custom/jigsaw_lock_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 421
+			},
+			"model": "minecraft:item/custom/jigsaw_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 422
+			},
+			"model": "minecraft:item/custom/jigsaw_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 423
+			},
+			"model": "minecraft:item/custom/jukebox_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 424
+			},
+			"model": "minecraft:item/custom/jukebox_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 425
+			},
+			"model": "minecraft:item/custom/jungle_door_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 426
+			},
+			"model": "minecraft:item/custom/jungle_door_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 427
+			},
+			"model": "minecraft:item/custom/jungle_leaves_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 428
+			},
+			"model": "minecraft:item/custom/jungle_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 429
+			},
+			"model": "minecraft:item/custom/jungle_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 430
+			},
+			"model": "minecraft:item/custom/jungle_planks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 431
+			},
+			"model": "minecraft:item/custom/jungle_sapling_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 432
+			},
+			"model": "minecraft:item/custom/jungle_trapdoor_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 433
+			},
+			"model": "minecraft:item/custom/kelp_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 434
+			},
+			"model": "minecraft:item/custom/kelp_plant_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 435
+			},
+			"model": "minecraft:item/custom/ladder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 436
+			},
+			"model": "minecraft:item/custom/lantern_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 437
+			},
+			"model": "minecraft:item/custom/lapis_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 438
+			},
+			"model": "minecraft:item/custom/lapis_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 439
+			},
+			"model": "minecraft:item/custom/large_amethyst_bud_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 440
+			},
+			"model": "minecraft:item/custom/large_fern_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 441
+			},
+			"model": "minecraft:item/custom/large_fern_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 442
+			},
+			"model": "minecraft:item/custom/lava_flow_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 443
+			},
+			"model": "minecraft:item/custom/lava_still_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 444
+			},
+			"model": "minecraft:item/custom/lectern_base_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 445
+			},
+			"model": "minecraft:item/custom/lectern_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 446
+			},
+			"model": "minecraft:item/custom/lectern_sides_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 447
+			},
+			"model": "minecraft:item/custom/lectern_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 448
+			},
+			"model": "minecraft:item/custom/lever_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 449
+			},
+			"model": "minecraft:item/custom/lightning_rod_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 450
+			},
+			"model": "minecraft:item/custom/lightning_rod_on_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 451
+			},
+			"model": "minecraft:item/custom/light_blue_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 452
+			},
+			"model": "minecraft:item/custom/light_blue_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 453
+			},
+			"model": "minecraft:item/custom/light_blue_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 454
+			},
+			"model": "minecraft:item/custom/light_blue_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 455
+			},
+			"model": "minecraft:item/custom/light_blue_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 456
+			},
+			"model": "minecraft:item/custom/light_blue_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 457
+			},
+			"model": "minecraft:item/custom/light_blue_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 458
+			},
+			"model": "minecraft:item/custom/light_blue_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 459
+			},
+			"model": "minecraft:item/custom/light_blue_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 460
+			},
+			"model": "minecraft:item/custom/light_blue_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 461
+			},
+			"model": "minecraft:item/custom/light_gray_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 462
+			},
+			"model": "minecraft:item/custom/light_gray_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 463
+			},
+			"model": "minecraft:item/custom/light_gray_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 464
+			},
+			"model": "minecraft:item/custom/light_gray_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 465
+			},
+			"model": "minecraft:item/custom/light_gray_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 466
+			},
+			"model": "minecraft:item/custom/light_gray_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 467
+			},
+			"model": "minecraft:item/custom/light_gray_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 468
+			},
+			"model": "minecraft:item/custom/light_gray_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 469
+			},
+			"model": "minecraft:item/custom/light_gray_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 470
+			},
+			"model": "minecraft:item/custom/light_gray_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 471
+			},
+			"model": "minecraft:item/custom/lilac_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 472
+			},
+			"model": "minecraft:item/custom/lilac_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 473
+			},
+			"model": "minecraft:item/custom/lily_of_the_valley_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 474
+			},
+			"model": "minecraft:item/custom/lily_pad_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 475
+			},
+			"model": "minecraft:item/custom/lime_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 476
+			},
+			"model": "minecraft:item/custom/lime_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 477
+			},
+			"model": "minecraft:item/custom/lime_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 478
+			},
+			"model": "minecraft:item/custom/lime_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 479
+			},
+			"model": "minecraft:item/custom/lime_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 480
+			},
+			"model": "minecraft:item/custom/lime_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 481
+			},
+			"model": "minecraft:item/custom/lime_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 482
+			},
+			"model": "minecraft:item/custom/lime_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 483
+			},
+			"model": "minecraft:item/custom/lime_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 484
+			},
+			"model": "minecraft:item/custom/lime_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 485
+			},
+			"model": "minecraft:item/custom/lodestone_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 486
+			},
+			"model": "minecraft:item/custom/lodestone_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 487
+			},
+			"model": "minecraft:item/custom/loom_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 488
+			},
+			"model": "minecraft:item/custom/loom_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 489
+			},
+			"model": "minecraft:item/custom/loom_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 490
+			},
+			"model": "minecraft:item/custom/loom_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 491
+			},
+			"model": "minecraft:item/custom/magenta_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 492
+			},
+			"model": "minecraft:item/custom/magenta_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 493
+			},
+			"model": "minecraft:item/custom/magenta_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 494
+			},
+			"model": "minecraft:item/custom/magenta_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 495
+			},
+			"model": "minecraft:item/custom/magenta_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 496
+			},
+			"model": "minecraft:item/custom/magenta_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 497
+			},
+			"model": "minecraft:item/custom/magenta_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 498
+			},
+			"model": "minecraft:item/custom/magenta_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 499
+			},
+			"model": "minecraft:item/custom/magenta_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 500
+			},
+			"model": "minecraft:item/custom/magenta_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 501
+			},
+			"model": "minecraft:item/custom/magma_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 502
+			},
+			"model": "minecraft:item/custom/mangrove_door_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 503
+			},
+			"model": "minecraft:item/custom/mangrove_door_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 504
+			},
+			"model": "minecraft:item/custom/mangrove_leaves_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 505
+			},
+			"model": "minecraft:item/custom/mangrove_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 506
+			},
+			"model": "minecraft:item/custom/mangrove_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 507
+			},
+			"model": "minecraft:item/custom/mangrove_planks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 508
+			},
+			"model": "minecraft:item/custom/mangrove_propagule_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 509
+			},
+			"model": "minecraft:item/custom/mangrove_propagule_hanging_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 510
+			},
+			"model": "minecraft:item/custom/mangrove_roots_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 511
+			},
+			"model": "minecraft:item/custom/mangrove_roots_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 512
+			},
+			"model": "minecraft:item/custom/mangrove_trapdoor_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 513
+			},
+			"model": "minecraft:item/custom/medium_amethyst_bud_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 514
+			},
+			"model": "minecraft:item/custom/melon_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 515
+			},
+			"model": "minecraft:item/custom/melon_stem_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 516
+			},
+			"model": "minecraft:item/custom/melon_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 517
+			},
+			"model": "minecraft:item/custom/mossy_cobblestone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 518
+			},
+			"model": "minecraft:item/custom/mossy_stone_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 519
+			},
+			"model": "minecraft:item/custom/moss_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 520
+			},
+			"model": "minecraft:item/custom/mud_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 521
+			},
+			"model": "minecraft:item/custom/muddy_mangrove_roots_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 522
+			},
+			"model": "minecraft:item/custom/muddy_mangrove_roots_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 523
+			},
+			"model": "minecraft:item/custom/mud_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 524
+			},
+			"model": "minecraft:item/custom/mushroom_block_inside_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 525
+			},
+			"model": "minecraft:item/custom/mushroom_stem_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 526
+			},
+			"model": "minecraft:item/custom/mycelium_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 527
+			},
+			"model": "minecraft:item/custom/mycelium_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 528
+			},
+			"model": "minecraft:item/custom/netherite_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 529
+			},
+			"model": "minecraft:item/custom/netherrack_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 530
+			},
+			"model": "minecraft:item/custom/nether_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 531
+			},
+			"model": "minecraft:item/custom/nether_gold_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 532
+			},
+			"model": "minecraft:item/custom/nether_portal_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 533
+			},
+			"model": "minecraft:item/custom/nether_quartz_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 534
+			},
+			"model": "minecraft:item/custom/nether_sprouts_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 535
+			},
+			"model": "minecraft:item/custom/nether_wart_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 536
+			},
+			"model": "minecraft:item/custom/nether_wart_stage0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 537
+			},
+			"model": "minecraft:item/custom/nether_wart_stage1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 538
+			},
+			"model": "minecraft:item/custom/nether_wart_stage2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 539
+			},
+			"model": "minecraft:item/custom/note_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 540
+			},
+			"model": "minecraft:item/custom/oak_door_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 541
+			},
+			"model": "minecraft:item/custom/oak_door_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 542
+			},
+			"model": "minecraft:item/custom/oak_leaves_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 543
+			},
+			"model": "minecraft:item/custom/oak_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 544
+			},
+			"model": "minecraft:item/custom/oak_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 545
+			},
+			"model": "minecraft:item/custom/oak_planks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 546
+			},
+			"model": "minecraft:item/custom/oak_sapling_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 547
+			},
+			"model": "minecraft:item/custom/oak_trapdoor_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 548
+			},
+			"model": "minecraft:item/custom/observer_back_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 549
+			},
+			"model": "minecraft:item/custom/observer_back_on_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 550
+			},
+			"model": "minecraft:item/custom/observer_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 551
+			},
+			"model": "minecraft:item/custom/observer_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 552
+			},
+			"model": "minecraft:item/custom/observer_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 553
+			},
+			"model": "minecraft:item/custom/obsidian_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 554
+			},
+			"model": "minecraft:item/custom/ochre_froglight_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 555
+			},
+			"model": "minecraft:item/custom/ochre_froglight_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 556
+			},
+			"model": "minecraft:item/custom/orange_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 557
+			},
+			"model": "minecraft:item/custom/orange_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 558
+			},
+			"model": "minecraft:item/custom/orange_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 559
+			},
+			"model": "minecraft:item/custom/orange_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 560
+			},
+			"model": "minecraft:item/custom/orange_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 561
+			},
+			"model": "minecraft:item/custom/orange_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 562
+			},
+			"model": "minecraft:item/custom/orange_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 563
+			},
+			"model": "minecraft:item/custom/orange_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 564
+			},
+			"model": "minecraft:item/custom/orange_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 565
+			},
+			"model": "minecraft:item/custom/orange_tulip_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 566
+			},
+			"model": "minecraft:item/custom/orange_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 567
+			},
+			"model": "minecraft:item/custom/oxeye_daisy_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 568
+			},
+			"model": "minecraft:item/custom/oxidized_copper_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 569
+			},
+			"model": "minecraft:item/custom/oxidized_cut_copper_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 570
+			},
+			"model": "minecraft:item/custom/packed_ice_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 571
+			},
+			"model": "minecraft:item/custom/packed_mud_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 572
+			},
+			"model": "minecraft:item/custom/pearlescent_froglight_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 573
+			},
+			"model": "minecraft:item/custom/pearlescent_froglight_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 574
+			},
+			"model": "minecraft:item/custom/peony_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 575
+			},
+			"model": "minecraft:item/custom/peony_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 576
+			},
+			"model": "minecraft:item/custom/pink_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 577
+			},
+			"model": "minecraft:item/custom/pink_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 578
+			},
+			"model": "minecraft:item/custom/pink_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 579
+			},
+			"model": "minecraft:item/custom/pink_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 580
+			},
+			"model": "minecraft:item/custom/pink_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 581
+			},
+			"model": "minecraft:item/custom/pink_petals_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 582
+			},
+			"model": "minecraft:item/custom/pink_petals_stem_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 583
+			},
+			"model": "minecraft:item/custom/pink_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 584
+			},
+			"model": "minecraft:item/custom/pink_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 585
+			},
+			"model": "minecraft:item/custom/pink_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 586
+			},
+			"model": "minecraft:item/custom/pink_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 587
+			},
+			"model": "minecraft:item/custom/pink_tulip_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 588
+			},
+			"model": "minecraft:item/custom/pink_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 589
+			},
+			"model": "minecraft:item/custom/piston_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 590
+			},
+			"model": "minecraft:item/custom/piston_inner_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 591
+			},
+			"model": "minecraft:item/custom/piston_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 592
+			},
+			"model": "minecraft:item/custom/piston_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 593
+			},
+			"model": "minecraft:item/custom/piston_top_sticky_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 594
+			},
+			"model": "minecraft:item/custom/pitcher_crop_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 595
+			},
+			"model": "minecraft:item/custom/pitcher_crop_bottom_stage_1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 596
+			},
+			"model": "minecraft:item/custom/pitcher_crop_bottom_stage_2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 597
+			},
+			"model": "minecraft:item/custom/pitcher_crop_bottom_stage_3_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 598
+			},
+			"model": "minecraft:item/custom/pitcher_crop_bottom_stage_4_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 599
+			},
+			"model": "minecraft:item/custom/pitcher_crop_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 600
+			},
+			"model": "minecraft:item/custom/pitcher_crop_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 601
+			},
+			"model": "minecraft:item/custom/pitcher_crop_top_stage_3_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 602
+			},
+			"model": "minecraft:item/custom/pitcher_crop_top_stage_4_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 603
+			},
+			"model": "minecraft:item/custom/podzol_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 604
+			},
+			"model": "minecraft:item/custom/podzol_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 605
+			},
+			"model": "minecraft:item/custom/pointed_dripstone_down_base_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 606
+			},
+			"model": "minecraft:item/custom/pointed_dripstone_down_frustum_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 607
+			},
+			"model": "minecraft:item/custom/pointed_dripstone_down_middle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 608
+			},
+			"model": "minecraft:item/custom/pointed_dripstone_down_tip_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 609
+			},
+			"model": "minecraft:item/custom/pointed_dripstone_down_tip_merge_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 610
+			},
+			"model": "minecraft:item/custom/pointed_dripstone_up_base_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 611
+			},
+			"model": "minecraft:item/custom/pointed_dripstone_up_frustum_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 612
+			},
+			"model": "minecraft:item/custom/pointed_dripstone_up_middle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 613
+			},
+			"model": "minecraft:item/custom/pointed_dripstone_up_tip_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 614
+			},
+			"model": "minecraft:item/custom/pointed_dripstone_up_tip_merge_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 615
+			},
+			"model": "minecraft:item/custom/polished_andesite_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 616
+			},
+			"model": "minecraft:item/custom/polished_basalt_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 617
+			},
+			"model": "minecraft:item/custom/polished_basalt_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 618
+			},
+			"model": "minecraft:item/custom/polished_blackstone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 619
+			},
+			"model": "minecraft:item/custom/polished_blackstone_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 620
+			},
+			"model": "minecraft:item/custom/polished_deepslate_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 621
+			},
+			"model": "minecraft:item/custom/polished_diorite_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 622
+			},
+			"model": "minecraft:item/custom/polished_granite_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 623
+			},
+			"model": "minecraft:item/custom/poppy_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 624
+			},
+			"model": "minecraft:item/custom/potatoes_stage0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 625
+			},
+			"model": "minecraft:item/custom/potatoes_stage1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 626
+			},
+			"model": "minecraft:item/custom/potatoes_stage2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 627
+			},
+			"model": "minecraft:item/custom/potatoes_stage3_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 628
+			},
+			"model": "minecraft:item/custom/potted_azalea_bush_plant_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 629
+			},
+			"model": "minecraft:item/custom/potted_azalea_bush_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 630
+			},
+			"model": "minecraft:item/custom/potted_azalea_bush_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 631
+			},
+			"model": "minecraft:item/custom/potted_flowering_azalea_bush_plant_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 632
+			},
+			"model": "minecraft:item/custom/potted_flowering_azalea_bush_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 633
+			},
+			"model": "minecraft:item/custom/potted_flowering_azalea_bush_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 634
+			},
+			"model": "minecraft:item/custom/powder_snow_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 635
+			},
+			"model": "minecraft:item/custom/powered_rail_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 636
+			},
+			"model": "minecraft:item/custom/powered_rail_on_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 637
+			},
+			"model": "minecraft:item/custom/prismarine_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 638
+			},
+			"model": "minecraft:item/custom/prismarine_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 639
+			},
+			"model": "minecraft:item/custom/pumpkin_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 640
+			},
+			"model": "minecraft:item/custom/pumpkin_stem_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 641
+			},
+			"model": "minecraft:item/custom/pumpkin_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 642
+			},
+			"model": "minecraft:item/custom/purple_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 643
+			},
+			"model": "minecraft:item/custom/purple_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 644
+			},
+			"model": "minecraft:item/custom/purple_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 645
+			},
+			"model": "minecraft:item/custom/purple_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 646
+			},
+			"model": "minecraft:item/custom/purple_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 647
+			},
+			"model": "minecraft:item/custom/purple_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 648
+			},
+			"model": "minecraft:item/custom/purple_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 649
+			},
+			"model": "minecraft:item/custom/purple_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 650
+			},
+			"model": "minecraft:item/custom/purple_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 651
+			},
+			"model": "minecraft:item/custom/purple_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 652
+			},
+			"model": "minecraft:item/custom/purpur_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 653
+			},
+			"model": "minecraft:item/custom/purpur_pillar_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 654
+			},
+			"model": "minecraft:item/custom/purpur_pillar_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 655
+			},
+			"model": "minecraft:item/custom/quartz_block_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 656
+			},
+			"model": "minecraft:item/custom/quartz_block_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 657
+			},
+			"model": "minecraft:item/custom/quartz_block_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 658
+			},
+			"model": "minecraft:item/custom/quartz_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 659
+			},
+			"model": "minecraft:item/custom/quartz_pillar_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 660
+			},
+			"model": "minecraft:item/custom/quartz_pillar_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 661
+			},
+			"model": "minecraft:item/custom/rail_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 662
+			},
+			"model": "minecraft:item/custom/rail_corner_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 663
+			},
+			"model": "minecraft:item/custom/raw_copper_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 664
+			},
+			"model": "minecraft:item/custom/raw_gold_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 665
+			},
+			"model": "minecraft:item/custom/raw_iron_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 666
+			},
+			"model": "minecraft:item/custom/redstone_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 667
+			},
+			"model": "minecraft:item/custom/redstone_dust_dot_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 668
+			},
+			"model": "minecraft:item/custom/redstone_dust_line0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 669
+			},
+			"model": "minecraft:item/custom/redstone_dust_line1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 670
+			},
+			"model": "minecraft:item/custom/redstone_dust_overlay_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 671
+			},
+			"model": "minecraft:item/custom/redstone_lamp_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 672
+			},
+			"model": "minecraft:item/custom/redstone_lamp_on_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 673
+			},
+			"model": "minecraft:item/custom/redstone_ore_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 674
+			},
+			"model": "minecraft:item/custom/redstone_torch_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 675
+			},
+			"model": "minecraft:item/custom/redstone_torch_off_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 676
+			},
+			"model": "minecraft:item/custom/red_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 677
+			},
+			"model": "minecraft:item/custom/red_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 678
+			},
+			"model": "minecraft:item/custom/red_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 679
+			},
+			"model": "minecraft:item/custom/red_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 680
+			},
+			"model": "minecraft:item/custom/red_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 681
+			},
+			"model": "minecraft:item/custom/red_mushroom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 682
+			},
+			"model": "minecraft:item/custom/red_mushroom_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 683
+			},
+			"model": "minecraft:item/custom/red_nether_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 684
+			},
+			"model": "minecraft:item/custom/red_sand_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 685
+			},
+			"model": "minecraft:item/custom/red_sandstone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 686
+			},
+			"model": "minecraft:item/custom/red_sandstone_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 687
+			},
+			"model": "minecraft:item/custom/red_sandstone_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 688
+			},
+			"model": "minecraft:item/custom/red_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 689
+			},
+			"model": "minecraft:item/custom/red_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 690
+			},
+			"model": "minecraft:item/custom/red_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 691
+			},
+			"model": "minecraft:item/custom/red_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 692
+			},
+			"model": "minecraft:item/custom/red_tulip_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 693
+			},
+			"model": "minecraft:item/custom/red_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 694
+			},
+			"model": "minecraft:item/custom/reinforced_deepslate_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 695
+			},
+			"model": "minecraft:item/custom/reinforced_deepslate_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 696
+			},
+			"model": "minecraft:item/custom/reinforced_deepslate_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 697
+			},
+			"model": "minecraft:item/custom/repeater_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 698
+			},
+			"model": "minecraft:item/custom/repeater_on_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 699
+			},
+			"model": "minecraft:item/custom/repeating_command_block_back_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 700
+			},
+			"model": "minecraft:item/custom/repeating_command_block_conditional_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 701
+			},
+			"model": "minecraft:item/custom/repeating_command_block_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 702
+			},
+			"model": "minecraft:item/custom/repeating_command_block_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 703
+			},
+			"model": "minecraft:item/custom/respawn_anchor_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 704
+			},
+			"model": "minecraft:item/custom/respawn_anchor_side0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 705
+			},
+			"model": "minecraft:item/custom/respawn_anchor_side1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 706
+			},
+			"model": "minecraft:item/custom/respawn_anchor_side2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 707
+			},
+			"model": "minecraft:item/custom/respawn_anchor_side3_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 708
+			},
+			"model": "minecraft:item/custom/respawn_anchor_side4_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 709
+			},
+			"model": "minecraft:item/custom/respawn_anchor_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 710
+			},
+			"model": "minecraft:item/custom/respawn_anchor_top_off_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 711
+			},
+			"model": "minecraft:item/custom/rooted_dirt_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 712
+			},
+			"model": "minecraft:item/custom/rose_bush_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 713
+			},
+			"model": "minecraft:item/custom/rose_bush_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 714
+			},
+			"model": "minecraft:item/custom/sand_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 715
+			},
+			"model": "minecraft:item/custom/sandstone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 716
+			},
+			"model": "minecraft:item/custom/sandstone_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 717
+			},
+			"model": "minecraft:item/custom/sandstone_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 718
+			},
+			"model": "minecraft:item/custom/scaffolding_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 719
+			},
+			"model": "minecraft:item/custom/scaffolding_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 720
+			},
+			"model": "minecraft:item/custom/scaffolding_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 721
+			},
+			"model": "minecraft:item/custom/sculk_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 722
+			},
+			"model": "minecraft:item/custom/sculk_catalyst_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 723
+			},
+			"model": "minecraft:item/custom/sculk_catalyst_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 724
+			},
+			"model": "minecraft:item/custom/sculk_catalyst_side_bloom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 725
+			},
+			"model": "minecraft:item/custom/sculk_catalyst_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 726
+			},
+			"model": "minecraft:item/custom/sculk_catalyst_top_bloom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 727
+			},
+			"model": "minecraft:item/custom/sculk_sensor_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 728
+			},
+			"model": "minecraft:item/custom/sculk_sensor_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 729
+			},
+			"model": "minecraft:item/custom/sculk_sensor_tendril_active_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 730
+			},
+			"model": "minecraft:item/custom/sculk_sensor_tendril_inactive_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 731
+			},
+			"model": "minecraft:item/custom/sculk_sensor_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 732
+			},
+			"model": "minecraft:item/custom/sculk_shrieker_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 733
+			},
+			"model": "minecraft:item/custom/sculk_shrieker_can_summon_inner_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 734
+			},
+			"model": "minecraft:item/custom/sculk_shrieker_inner_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 735
+			},
+			"model": "minecraft:item/custom/sculk_shrieker_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 736
+			},
+			"model": "minecraft:item/custom/sculk_shrieker_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 737
+			},
+			"model": "minecraft:item/custom/sculk_vein_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 738
+			},
+			"model": "minecraft:item/custom/seagrass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 739
+			},
+			"model": "minecraft:item/custom/sea_lantern_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 740
+			},
+			"model": "minecraft:item/custom/sea_pickle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 741
+			},
+			"model": "minecraft:item/custom/shroomlight_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 742
+			},
+			"model": "minecraft:item/custom/shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 743
+			},
+			"model": "minecraft:item/custom/slime_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 744
+			},
+			"model": "minecraft:item/custom/small_amethyst_bud_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 745
+			},
+			"model": "minecraft:item/custom/small_dripleaf_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 746
+			},
+			"model": "minecraft:item/custom/small_dripleaf_stem_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 747
+			},
+			"model": "minecraft:item/custom/small_dripleaf_stem_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 748
+			},
+			"model": "minecraft:item/custom/small_dripleaf_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 749
+			},
+			"model": "minecraft:item/custom/smithing_table_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 750
+			},
+			"model": "minecraft:item/custom/smithing_table_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 751
+			},
+			"model": "minecraft:item/custom/smithing_table_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 752
+			},
+			"model": "minecraft:item/custom/smithing_table_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 753
+			},
+			"model": "minecraft:item/custom/smoker_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 754
+			},
+			"model": "minecraft:item/custom/smoker_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 755
+			},
+			"model": "minecraft:item/custom/smoker_front_on_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 756
+			},
+			"model": "minecraft:item/custom/smoker_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 757
+			},
+			"model": "minecraft:item/custom/smoker_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 758
+			},
+			"model": "minecraft:item/custom/smooth_basalt_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 759
+			},
+			"model": "minecraft:item/custom/smooth_stone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 760
+			},
+			"model": "minecraft:item/custom/smooth_stone_slab_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 761
+			},
+			"model": "minecraft:item/custom/sniffer_egg_not_cracked_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 762
+			},
+			"model": "minecraft:item/custom/sniffer_egg_not_cracked_east_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 763
+			},
+			"model": "minecraft:item/custom/sniffer_egg_not_cracked_north_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 764
+			},
+			"model": "minecraft:item/custom/sniffer_egg_not_cracked_south_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 765
+			},
+			"model": "minecraft:item/custom/sniffer_egg_not_cracked_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 766
+			},
+			"model": "minecraft:item/custom/sniffer_egg_not_cracked_west_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 767
+			},
+			"model": "minecraft:item/custom/sniffer_egg_slightly_cracked_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 768
+			},
+			"model": "minecraft:item/custom/sniffer_egg_slightly_cracked_east_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 769
+			},
+			"model": "minecraft:item/custom/sniffer_egg_slightly_cracked_north_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 770
+			},
+			"model": "minecraft:item/custom/sniffer_egg_slightly_cracked_south_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 771
+			},
+			"model": "minecraft:item/custom/sniffer_egg_slightly_cracked_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 772
+			},
+			"model": "minecraft:item/custom/sniffer_egg_slightly_cracked_west_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 773
+			},
+			"model": "minecraft:item/custom/sniffer_egg_very_cracked_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 774
+			},
+			"model": "minecraft:item/custom/sniffer_egg_very_cracked_east_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 775
+			},
+			"model": "minecraft:item/custom/sniffer_egg_very_cracked_north_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 776
+			},
+			"model": "minecraft:item/custom/sniffer_egg_very_cracked_south_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 777
+			},
+			"model": "minecraft:item/custom/sniffer_egg_very_cracked_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 778
+			},
+			"model": "minecraft:item/custom/sniffer_egg_very_cracked_west_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 779
+			},
+			"model": "minecraft:item/custom/snow_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 780
+			},
+			"model": "minecraft:item/custom/soul_campfire_fire_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 781
+			},
+			"model": "minecraft:item/custom/soul_campfire_log_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 782
+			},
+			"model": "minecraft:item/custom/soul_fire_0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 783
+			},
+			"model": "minecraft:item/custom/soul_fire_1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 784
+			},
+			"model": "minecraft:item/custom/soul_lantern_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 785
+			},
+			"model": "minecraft:item/custom/soul_sand_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 786
+			},
+			"model": "minecraft:item/custom/soul_soil_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 787
+			},
+			"model": "minecraft:item/custom/soul_torch_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 788
+			},
+			"model": "minecraft:item/custom/spawner_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 789
+			},
+			"model": "minecraft:item/custom/sponge_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 790
+			},
+			"model": "minecraft:item/custom/spore_blossom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 791
+			},
+			"model": "minecraft:item/custom/spore_blossom_base_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 792
+			},
+			"model": "minecraft:item/custom/spruce_door_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 793
+			},
+			"model": "minecraft:item/custom/spruce_door_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 794
+			},
+			"model": "minecraft:item/custom/spruce_leaves_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 795
+			},
+			"model": "minecraft:item/custom/spruce_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 796
+			},
+			"model": "minecraft:item/custom/spruce_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 797
+			},
+			"model": "minecraft:item/custom/spruce_planks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 798
+			},
+			"model": "minecraft:item/custom/spruce_sapling_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 799
+			},
+			"model": "minecraft:item/custom/spruce_trapdoor_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 800
+			},
+			"model": "minecraft:item/custom/stone_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 801
+			},
+			"model": "minecraft:item/custom/stonecutter_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 802
+			},
+			"model": "minecraft:item/custom/stonecutter_saw_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 803
+			},
+			"model": "minecraft:item/custom/stonecutter_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 804
+			},
+			"model": "minecraft:item/custom/stonecutter_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 805
+			},
+			"model": "minecraft:item/custom/stone_bricks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 806
+			},
+			"model": "minecraft:item/custom/stripped_acacia_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 807
+			},
+			"model": "minecraft:item/custom/stripped_acacia_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 808
+			},
+			"model": "minecraft:item/custom/stripped_bamboo_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 809
+			},
+			"model": "minecraft:item/custom/stripped_bamboo_block_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 810
+			},
+			"model": "minecraft:item/custom/stripped_birch_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 811
+			},
+			"model": "minecraft:item/custom/stripped_birch_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 812
+			},
+			"model": "minecraft:item/custom/stripped_cherry_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 813
+			},
+			"model": "minecraft:item/custom/stripped_cherry_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 814
+			},
+			"model": "minecraft:item/custom/stripped_crimson_stem_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 815
+			},
+			"model": "minecraft:item/custom/stripped_crimson_stem_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 816
+			},
+			"model": "minecraft:item/custom/stripped_dark_oak_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 817
+			},
+			"model": "minecraft:item/custom/stripped_dark_oak_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 818
+			},
+			"model": "minecraft:item/custom/stripped_jungle_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 819
+			},
+			"model": "minecraft:item/custom/stripped_jungle_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 820
+			},
+			"model": "minecraft:item/custom/stripped_mangrove_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 821
+			},
+			"model": "minecraft:item/custom/stripped_mangrove_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 822
+			},
+			"model": "minecraft:item/custom/stripped_oak_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 823
+			},
+			"model": "minecraft:item/custom/stripped_oak_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 824
+			},
+			"model": "minecraft:item/custom/stripped_spruce_log_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 825
+			},
+			"model": "minecraft:item/custom/stripped_spruce_log_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 826
+			},
+			"model": "minecraft:item/custom/stripped_warped_stem_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 827
+			},
+			"model": "minecraft:item/custom/stripped_warped_stem_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 828
+			},
+			"model": "minecraft:item/custom/structure_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 829
+			},
+			"model": "minecraft:item/custom/structure_block_corner_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 830
+			},
+			"model": "minecraft:item/custom/structure_block_data_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 831
+			},
+			"model": "minecraft:item/custom/structure_block_load_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 832
+			},
+			"model": "minecraft:item/custom/structure_block_save_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 833
+			},
+			"model": "minecraft:item/custom/sugar_cane_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 834
+			},
+			"model": "minecraft:item/custom/sunflower_back_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 835
+			},
+			"model": "minecraft:item/custom/sunflower_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 836
+			},
+			"model": "minecraft:item/custom/sunflower_front_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 837
+			},
+			"model": "minecraft:item/custom/sunflower_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 838
+			},
+			"model": "minecraft:item/custom/suspicious_gravel_0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 839
+			},
+			"model": "minecraft:item/custom/suspicious_gravel_1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 840
+			},
+			"model": "minecraft:item/custom/suspicious_gravel_2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 841
+			},
+			"model": "minecraft:item/custom/suspicious_gravel_3_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 842
+			},
+			"model": "minecraft:item/custom/suspicious_sand_0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 843
+			},
+			"model": "minecraft:item/custom/suspicious_sand_1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 844
+			},
+			"model": "minecraft:item/custom/suspicious_sand_2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 845
+			},
+			"model": "minecraft:item/custom/suspicious_sand_3_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 846
+			},
+			"model": "minecraft:item/custom/sweet_berry_bush_stage0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 847
+			},
+			"model": "minecraft:item/custom/sweet_berry_bush_stage1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 848
+			},
+			"model": "minecraft:item/custom/sweet_berry_bush_stage2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 849
+			},
+			"model": "minecraft:item/custom/sweet_berry_bush_stage3_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 850
+			},
+			"model": "minecraft:item/custom/tall_grass_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 851
+			},
+			"model": "minecraft:item/custom/tall_grass_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 852
+			},
+			"model": "minecraft:item/custom/tall_seagrass_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 853
+			},
+			"model": "minecraft:item/custom/tall_seagrass_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 854
+			},
+			"model": "minecraft:item/custom/target_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 855
+			},
+			"model": "minecraft:item/custom/target_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 856
+			},
+			"model": "minecraft:item/custom/terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 857
+			},
+			"model": "minecraft:item/custom/tinted_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 858
+			},
+			"model": "minecraft:item/custom/tnt_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 859
+			},
+			"model": "minecraft:item/custom/tnt_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 860
+			},
+			"model": "minecraft:item/custom/tnt_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 861
+			},
+			"model": "minecraft:item/custom/torch_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 862
+			},
+			"model": "minecraft:item/custom/torchflower_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 863
+			},
+			"model": "minecraft:item/custom/torchflower_crop_stage0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 864
+			},
+			"model": "minecraft:item/custom/torchflower_crop_stage1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 865
+			},
+			"model": "minecraft:item/custom/tripwire_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 866
+			},
+			"model": "minecraft:item/custom/tripwire_hook_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 867
+			},
+			"model": "minecraft:item/custom/tube_coral_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 868
+			},
+			"model": "minecraft:item/custom/tube_coral_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 869
+			},
+			"model": "minecraft:item/custom/tube_coral_fan_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 870
+			},
+			"model": "minecraft:item/custom/tuff_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 871
+			},
+			"model": "minecraft:item/custom/turtle_egg_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 872
+			},
+			"model": "minecraft:item/custom/turtle_egg_slightly_cracked_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 873
+			},
+			"model": "minecraft:item/custom/turtle_egg_very_cracked_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 874
+			},
+			"model": "minecraft:item/custom/twisting_vines_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 875
+			},
+			"model": "minecraft:item/custom/twisting_vines_plant_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 876
+			},
+			"model": "minecraft:item/custom/verdant_froglight_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 877
+			},
+			"model": "minecraft:item/custom/verdant_froglight_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 878
+			},
+			"model": "minecraft:item/custom/vine_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 879
+			},
+			"model": "minecraft:item/custom/warped_door_bottom_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 880
+			},
+			"model": "minecraft:item/custom/warped_door_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 881
+			},
+			"model": "minecraft:item/custom/warped_fungus_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 882
+			},
+			"model": "minecraft:item/custom/warped_nylium_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 883
+			},
+			"model": "minecraft:item/custom/warped_nylium_side_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 884
+			},
+			"model": "minecraft:item/custom/warped_planks_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 885
+			},
+			"model": "minecraft:item/custom/warped_roots_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 886
+			},
+			"model": "minecraft:item/custom/warped_roots_pot_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 887
+			},
+			"model": "minecraft:item/custom/warped_stem_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 888
+			},
+			"model": "minecraft:item/custom/warped_stem_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 889
+			},
+			"model": "minecraft:item/custom/warped_trapdoor_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 890
+			},
+			"model": "minecraft:item/custom/warped_wart_block_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 891
+			},
+			"model": "minecraft:item/custom/water_flow_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 892
+			},
+			"model": "minecraft:item/custom/water_overlay_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 893
+			},
+			"model": "minecraft:item/custom/water_still_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 894
+			},
+			"model": "minecraft:item/custom/weathered_copper_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 895
+			},
+			"model": "minecraft:item/custom/weathered_cut_copper_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 896
+			},
+			"model": "minecraft:item/custom/weeping_vines_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 897
+			},
+			"model": "minecraft:item/custom/weeping_vines_plant_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 898
+			},
+			"model": "minecraft:item/custom/wet_sponge_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 899
+			},
+			"model": "minecraft:item/custom/wheat_stage0_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 900
+			},
+			"model": "minecraft:item/custom/wheat_stage1_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 901
+			},
+			"model": "minecraft:item/custom/wheat_stage2_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 902
+			},
+			"model": "minecraft:item/custom/wheat_stage3_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 903
+			},
+			"model": "minecraft:item/custom/wheat_stage4_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 904
+			},
+			"model": "minecraft:item/custom/wheat_stage5_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 905
+			},
+			"model": "minecraft:item/custom/wheat_stage6_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 906
+			},
+			"model": "minecraft:item/custom/wheat_stage7_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 907
+			},
+			"model": "minecraft:item/custom/white_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 908
+			},
+			"model": "minecraft:item/custom/white_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 909
+			},
+			"model": "minecraft:item/custom/white_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 910
+			},
+			"model": "minecraft:item/custom/white_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 911
+			},
+			"model": "minecraft:item/custom/white_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 912
+			},
+			"model": "minecraft:item/custom/white_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 913
+			},
+			"model": "minecraft:item/custom/white_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 914
+			},
+			"model": "minecraft:item/custom/white_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 915
+			},
+			"model": "minecraft:item/custom/white_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 916
+			},
+			"model": "minecraft:item/custom/white_tulip_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 917
+			},
+			"model": "minecraft:item/custom/white_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 918
+			},
+			"model": "minecraft:item/custom/wither_rose_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 919
+			},
+			"model": "minecraft:item/custom/yellow_candle_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 920
+			},
+			"model": "minecraft:item/custom/yellow_candle_lit_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 921
+			},
+			"model": "minecraft:item/custom/yellow_concrete_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 922
+			},
+			"model": "minecraft:item/custom/yellow_concrete_powder_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 923
+			},
+			"model": "minecraft:item/custom/yellow_glazed_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 924
+			},
+			"model": "minecraft:item/custom/yellow_shulker_box_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 925
+			},
+			"model": "minecraft:item/custom/yellow_stained_glass_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 926
+			},
+			"model": "minecraft:item/custom/yellow_stained_glass_pane_top_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 927
+			},
+			"model": "minecraft:item/custom/yellow_terracotta_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 928
+			},
+			"model": "minecraft:item/custom/yellow_wool_item"
+		},
+		
+		{
+			"predicate": {
+				"custom_model_data": 929
+			},
+			"model": "minecraft:item/custom/test_item"
+		}
+		
+  ]
+}
+	
